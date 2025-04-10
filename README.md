@@ -5,4 +5,5 @@ Feel free to contribute, use, modify, share it etc.
 
 ### todos
 add home-manager
+
 import my laptops config
