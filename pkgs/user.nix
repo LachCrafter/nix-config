@@ -32,7 +32,6 @@
   gpu-screen-recorder-gtk
   kdePackages.kdenlive
   spotify
-  
 
   # misc
   iotas

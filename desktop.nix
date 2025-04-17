@@ -11,6 +11,9 @@
   desktopManager.gnome.enable = true;
   displayManager.gdm.enable = true;
  };
+ 
+ # cosmic
+ services.desktopManager.cosmic.enable = true;
 
  # audio
  services.pipewire = {
