@@ -39,6 +39,7 @@
   filezilla
   pavucontrol
   gnome-tweaks
+  qlcplus
  ];
 
  # Mullvad vpn
