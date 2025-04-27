@@ -23,6 +23,7 @@
   # messaging
   discord
   element-desktop
+  slack
   
   # multimedia
   vlc
