@@ -13,6 +13,9 @@
   corefonts
   vistafonts
   adwaita-fonts
+  noto-fonts
+  noto-fonts-cjk-sans
+  comic-mono
   
   # games
   prismlauncher
