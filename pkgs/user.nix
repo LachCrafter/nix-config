@@ -8,15 +8,6 @@
   parted
   ntfs3g
   
-  # font
-  jetbrains-mono
-  corefonts
-  vistafonts
-  adwaita-fonts
-  noto-fonts
-  noto-fonts-cjk-sans
-  comic-mono
-  
   # games
   prismlauncher
 
@@ -51,4 +42,15 @@
   enable = true;
   package = pkgs.mullvad-vpn; 
  };
+
+ fonts.packages = with pkgs; [
+  jetbrains-mono
+  corefonts
+  vistafonts
+  adwaita-fonts
+  noto-fonts
+  noto-fonts-cjk-sans
+  comic-mono
+  ubuntu_font_family
+ ];
 }
