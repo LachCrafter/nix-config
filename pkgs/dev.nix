@@ -24,6 +24,7 @@
   qemu
   unzip
   unrar
+  bytecode-viewer
 
   # debug
   gdb
