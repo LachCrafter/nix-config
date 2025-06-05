@@ -27,6 +27,7 @@
   gpu-screen-recorder-gtk
   kdePackages.kdenlive
   spotify
+  texliveFull
 
   # misc
   iotas
@@ -35,6 +36,7 @@
   pavucontrol
   gnome-tweaks
   qlcplus
+  errands
  ];
 
  # Mullvad vpn
