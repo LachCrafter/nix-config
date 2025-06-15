@@ -18,11 +18,12 @@
   discord
   element-desktop
   slack
+  wasistlos
   
   # multimedia
   vlc
   obs-studio
-  gimp
+  gimp3
   gpu-screen-recorder
   gpu-screen-recorder-gtk
   kdePackages.kdenlive
