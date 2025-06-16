@@ -23,6 +23,7 @@
   # networking
   networking.hostName = "nixos"; # Define your hostname.
   networking.networkmanager.enable = true;
+  networking.nameservers = [ "1.1.1.1" ];
 
   nix = {
     extraOptions = ''
