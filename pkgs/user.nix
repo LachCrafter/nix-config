@@ -55,5 +55,6 @@
   noto-fonts-cjk-sans
   comic-mono
   ubuntu_font_family
+  cantarell-fonts
  ];
 }
