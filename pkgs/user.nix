@@ -12,7 +12,7 @@
   prismlauncher
 
   # browsers
-  floorp
+  floorp-bin
 
   # messaging
   discord
