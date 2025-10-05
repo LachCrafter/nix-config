@@ -25,6 +25,7 @@
   unzip
   unrar
   bytecode-viewer
+  cloudflared
 
   # debug
   gdb
