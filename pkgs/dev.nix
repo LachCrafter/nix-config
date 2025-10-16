@@ -26,6 +26,7 @@
   unrar
   bytecode-viewer
   cloudflared
+  direnv
 
   # debug
   gdb
